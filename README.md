@@ -1,4 +1,4 @@
-# SCAweek2-The screenshots display the contents of the /etc/passwd group, which displays user 1 to 15 which was created and assigned to 3 different groups comprising of 5 users per group.
+the screenshots display the contents of the /etc/passwd group, which displays user 1 to 15 which was created and assigned to 3 different groups comprising of 5 users per group.
 
 User1 is logged into and used to create a file and is granted permissions to read and write to it using the chmod 600 user1.txt command.
 
